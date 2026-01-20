@@ -1,5 +1,5 @@
-# 🤖 Knight Bot
-
+# 🤖 *𓆩𝐅𝐒𝐁 𝐬𝐡𝐚𝐦𝐚𓆪* Bot
+whatsapp nomver +996707815296
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
