@@ -224,3 +224,5 @@ This project contains code from various open source projects:
 - Baileys (MIT License)
 - Other libraries as listed in package.json
 tag 
+git clone https://github.com/mruniquehacker/Knightbot-MD.git
+cd Knightbot-MD
