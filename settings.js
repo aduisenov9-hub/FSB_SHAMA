@@ -1,5 +1,5 @@
 const settings = {
-  packname: 'Scp Abu Bot',
+  packname: 'Scp Abu Bot1',
   author: '‎',
   botName: "Scp Abu Bot",
   botOwner: 'Professor', // Your name
